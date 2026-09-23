@@ -1669,7 +1669,7 @@ Bounded by entitlement and authority.
 Recoverable under external uncertainty.  
 Explicit rather than inferred.**
 
-**END — AI BOS MASTER GAP-FREE BUILD CONTRACT v1.1**
+**END — AI BOS MASTER GAP-FREE BUILD CONTRACT v1.2**
 
 
 ---
